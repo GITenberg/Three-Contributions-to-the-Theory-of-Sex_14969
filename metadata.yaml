@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/391
     wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14969#Three-Contributions-to-the-Theory-of-Sex
 gutenberg_bookshelf: Psychology
 gutenberg_issued: '2005-02-08'
 gutenberg_type: Text
