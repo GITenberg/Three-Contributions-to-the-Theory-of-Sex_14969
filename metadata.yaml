@@ -1,0 +1,36 @@
+_repo: Three-Contributions-to-the-Theory-of-Sex_14969
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Brill, A. A. (Abraham Arden)
+    alias: Brill, Abraham Arden
+    birthdate: 1874
+    deathdate: 1948
+    gutenberg_agent_id: '5774'
+    url: http://www.gutenberg.org/2009/agents/5774
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freud, Sigmund
+    birthdate: 1856
+    deathdate: 1939
+    gutenberg_agent_id: '391'
+    url: http://www.gutenberg.org/2009/agents/391
+    wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
+description: ''
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2005-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sex'
+- !lcc 'HQ'
+title: Three Contributions to the Theory of Sex
+url: http://www.gutenberg.org/ebooks/14969
